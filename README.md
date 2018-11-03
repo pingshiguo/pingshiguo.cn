@@ -1,7 +1,7 @@
 STRML.net
 =========
 
-[View Site](http://strml.net)
+[View Site](http://pingshiguo.cn)
 
 Building
 --------
